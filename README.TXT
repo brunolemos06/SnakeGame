@@ -1,4 +1,4 @@
-minium version -> openjdk-13
+minimum version -> openjdk-13
 
 [Linux]
 - sudo apt-get install openjdk-13-jdk.
